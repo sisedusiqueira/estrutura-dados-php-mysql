@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>Contato</title>
+</head>
+<body>
+<h1>Entre em contato conosco</h1>
+<form method="POST" action="contato.php">
+  <p>Seu nome: <input type="text" name="nome" size="20"></p>
+  <p>Seu e-mail: <input type="text" name="email" size="20"></p>
+  <p>Escolha o assunto de sua mensagem:<br>
+  <select size="1" name="assunto">
+    <option value="pergunta">Pergunta</option>
+    <option value="reclamacao">Reclamação</option>
+    <option value="suporte">Suporte</option>
+    <option value="publicidade">Publicidade</option>
+    <option value="webmaster">Webmaster</option>
+  </select></p>
+  <p>Escreva sua mensagem no espaço abaixo:<br>
+  <textarea rows="6" name="mensagem" cols="43"></textarea></p>
+  <p><input type="submit" value="Enviar" name="enviar"></p>
+</form>
+</body>
+</html>

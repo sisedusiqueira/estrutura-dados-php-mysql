@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="conecta_banco.inc" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="130137266284511077" remote="130137265800000000" Dst="-1" />
+<file name="config_grafico.inc" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="127096907400000000" remote="130124290800000000" Dst="-1" />
+<file name="create.sql" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="127095759000000000" remote="130124290800000000" Dst="-1" />
+<file name="elimina.php" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="128503390800000000" remote="130124290800000000" Dst="-1" />
+<file name="email.gif" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="127099467600000000" remote="130124290800000000" Dst="-1" />
+<file name="excluir.php" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="130138052526758585" remote="130138052400000000" Dst="-1" />
+<file name="gera_email.php" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="130137942975391415" remote="130137942600000000" Dst="-1" />
+<file name="gera_grafico.php" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="130137314513749736" remote="130137314400000000" Dst="-1" />
+<file name="gera_pdf.php" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="130137933330881750" remote="130137933000000000" Dst="-1" />
+<file name="grafico.gif" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="127096913400000000" remote="130124290800000000" Dst="-1" />
+<file name="gravar.php" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="128503390800000000" remote="130124290800000000" Dst="-1" />
+<file name="incluir.php" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="128503390800000000" remote="130124290800000000" Dst="-1" />
+<file name="index.php" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="128503390800000000" remote="130124290800000000" Dst="-1" />
+<file name="login.php" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="128503390800000000" remote="130124290800000000" Dst="-1" />
+<file name="logout.php" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="128503390800000000" remote="130124290800000000" Dst="-1" />
+<file name="pdf.gif" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="127099380600000000" remote="130124290800000000" Dst="-1" />
+<file name="periodo.php" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="128503390820000000" remote="130124290800000000" Dst="-1" />
+<file name="planilha.php" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="130137931049435975" remote="130137930600000000" Dst="-1" />
+<file name="principal.php" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="128503390800000000" remote="130124290800000000" Dst="-1" />
+<file name="valida_cookies.inc" server="ftp.soturismo.com.br//public_html/siteNutricao/" local="128503383980000000" remote="130124290800000000" Dst="-1" />
+<file name="conecta_banco.inc" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="131371914667944087" remote="131371914600000000" Dst="1" />
+<file name="config_grafico.inc" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="127096907400000000" remote="131371780200000000" Dst="1" />
+<file name="create.sql" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="127095759000000000" remote="131371780200000000" Dst="1" />
+<file name="elimina.php" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="131371780058629334" remote="131371780200000000" Dst="1" />
+<file name="email.gif" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="127099467600000000" remote="131371780200000000" Dst="1" />
+<file name="excluir.php" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="131371780057789308" remote="131371780200000000" Dst="1" />
+<file name="gera_email.php" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="131371780057349298" remote="131371780200000000" Dst="1" />
+<file name="gera_grafico.php" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="131371780056909288" remote="131371780200000000" Dst="1" />
+<file name="gera_pdf.php" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="131371780058189331" remote="131371780200000000" Dst="1" />
+<file name="grafico.gif" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="127096913400000000" remote="131371780200000000" Dst="1" />
+<file name="gravar.php" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="131371780059029351" remote="131371780200000000" Dst="1" />
+<file name="incluir.php" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="131371780056469281" remote="131371780200000000" Dst="1" />
+<file name="index.php" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="131371123693192019" remote="131371780200000000" Dst="1" />
+<file name="login.php" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="131371777114653787" remote="131371780200000000" Dst="1" />
+<file name="logout.php" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="128503390800000000" remote="131371780200000000" Dst="1" />
+<file name="pdf.gif" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="127099380600000000" remote="131371780200000000" Dst="1" />
+<file name="periodo.php" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="131371139997146146" remote="131371780200000000" Dst="1" />
+<file name="planilha.php" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="131371780056189264" remote="131371780200000000" Dst="1" />
+<file name="principal.php" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="131371135214243839" remote="131371780200000000" Dst="1" />
+<file name="valida_cookies.inc" server="ftp.niederauer.hospedagemdesites.ws/public_html/" local="131371779745016596" remote="131371780200000000" Dst="1" />
+</dwsync>
