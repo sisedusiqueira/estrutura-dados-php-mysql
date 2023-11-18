@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Livro de PHP - Upload de múltiplos arquivos</title>
+</head>
+<body>
+<h2 align="center">Upload de múltiplos arquivos</h2>
+<form method=POST action="executa_upload_multiplo.php" enctype=multipart/form-data>
+<input type="hidden" name="MAX_FILE_SIZE" value="2000000">
+
+<p align=center>Arquivo 1: <input type="file" name="arquivo1" size="30"></p>
+<p align=center>Arquivo 2: <input type="file" name="arquivo2" size="30"></p>
+<p align=center>Arquivo 3: <input type="file" name="arquivo3" size="30"></p>
+<p align=center>Arquivo 4: <input type="file" name="arquivo4" size="30"></p>
+<p align=center>Arquivo 5: <input type="file" name="arquivo5" size="30"></p>
+
+<p align=center><input type=submit value="Enviar arquivos"></p>
+</form>
+</body>
+</html>
