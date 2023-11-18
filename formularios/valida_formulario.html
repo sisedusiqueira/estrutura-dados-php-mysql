@@ -1,0 +1,48 @@
+<script language="javascript">
+function valida (nomeform)
+{
+    if (nomeform.nome.value=="")
+    {
+        alert ("\nPor favor digite o nome.");
+        return false;
+    }
+    if (nomeform.email.value=="" || nomeform.email.value.indexOf('@', 0) == -1 || nomeform.email.value.indexOf('.', 0) == -1)
+    {
+        alert ("\nE-mail inválido.");
+        return false;
+    }
+    if (nomeform.estado.selectedIndex ==0)
+    {
+        alert ("\nPor favor selecione o estado.");
+        return false;
+    }
+    if (nomeform.login.value.length<5 || nomeform.login.value.length>15)
+    {
+        alert ("\nO login deve conter entre 5 e 15 caracteres.");
+        return false;
+    }
+    if (nomeform.login.value.indexOf(' ', 0) != -1)
+    {
+        alert ("\nO login não pode conter espaços em branco.");
+        return false;
+    }
+    if (nomeform.senha.value.length<5 || nomeform.senha.value.length>15)
+    {
+        alert ("\nA senha deve conter entre 5 e 15 caracteres.");
+        return false;
+    }
+    if (nomeform.senha.value.indexOf(' ', 0) != -1)
+    {
+        alert ("\nA senha não pode conter espaços em branco.");
+        return false;
+    }
+    if (nomeform.senha.value != nomeform.senha2.value)
+    {
+        alert ("\nSenhas não conferem. Você digitou duas senhas diferentes.");
+        return false;
+    }
+
+return true;
+}
+</script>
+
